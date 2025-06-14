@@ -1,0 +1,30 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific
+.vscode/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity generated
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Auto-generated from Unity Package Manager
+Packages/manifest.json
+Packages/packages-lock.json
